@@ -1,0 +1,14 @@
+{
+  "display_name": "媒体图床管家",
+  "loading_order": 50,
+  "requires": [],
+  "optional": [],
+  "dependencies": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "DDDayDreamwhite",
+  "version": "0.22.0",
+  "homePage": "https://github.com/DDDayDreamwhite/image-source-plugin",
+  "auto_update": true
+}
+
