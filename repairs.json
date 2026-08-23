@@ -6,29 +6,35 @@
       "creator": "Mewo喵呜",
       "card": "ECLIPSE男团",
       "message": "喵呜已经帮你修正了喵呜卡的所有图床，是否需要一键同步？",
-      "updated_at": "2026-08-23T08:58:32.488492+00:00",
+      "updated_at": "2026-08-23T15:37:51.4246456Z",
       "mappings": [
         {
+          "label": "陆听燃头像",
           "from": "https://file.garden/ad-trfVIV3ilAD86/c840ef721cc4ffe454c4e226f0a32dad.png",
           "to": "https://file.garden/ad-trfVIV3ilAD86/d9485816a395eb65cf00a7ae8422d221.png"
         },
         {
+          "label": "韩知序头像",
           "from": "https://file.garden/ad-trfVIV3ilAD86/f577cd5b1f2067bc739bfc892c54a4c2.png",
           "to": "https://file.garden/ad-trfVIV3ilAD86/a3645fa7a42ad4c6c5d9b963e60d76de.png"
         },
         {
+          "label": "崔允在头像",
           "from": "https://file.garden/ad-trfVIV3ilAD86/1efeeee52a48ee6a80e1b17ddaac5839.png",
           "to": "https://file.garden/ad-trfVIV3ilAD86/a55933d0ad7caa285c67529d5e680441.png"
         },
         {
+          "label": "金珉俊头像",
           "from": "https://files.catbox.moe/c1ee17.png",
-          "to": "https://file.garden/ad-trfVIV3ilAD86/46c8780a8f7be808c8e6be66ec7df13b.png"
+          "to": "https://file.garden/ad-trfVIV3ilAD86/d31ccc9ab235651d52feca69c5b5f950.jpg"
         },
         {
+          "label": "姜夏云头像",
           "from": "https://files.catbox.moe/t8gox4.png",
           "to": "https://file.garden/ad-trfVIV3ilAD86/96a09e819decf659b967c01b3e65d9ae.png"
         },
         {
+          "label": "沈慕予头像",
           "from": "https://files.catbox.moe/xa9674.png",
           "to": "https://file.garden/ad-trfVIV3ilAD86/9bacf34b8ed458a8c2e4b88bb6fc8152.png"
         }
