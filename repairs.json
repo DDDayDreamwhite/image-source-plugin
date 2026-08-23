@@ -6,7 +6,7 @@
       "creator": "Mewo喵呜",
       "card": "ECLIPSE男团",
       "message": "喵呜已经帮你修正了喵呜卡的所有图床，是否需要一键同步？",
-      "updated_at": "2026-08-23T16:13:57.8425471Z",
+      "updated_at": "2026-08-23T16:19:28.1790429Z",
       "mappings": [
         {
           "label": "陆听燃头像",
@@ -43,6 +43,67 @@
           "subject": "沈慕予",
           "from": "https://files.catbox.moe/x306a3.png",
           "to": "https://file.garden/ad-trfVIV3ilAD86/9bacf34b8ed458a8c2e4b88bb6fc8152.png"
+        },
+        {
+          "label": "韩知序头像（旧版卡）",
+          "from": "https://file.garden/ad-trfVIV3ilAD86/f577cd5b1f2067bc739bfc892c54a4c2.png",
+          "to": "https://file.garden/ad-trfVIV3ilAD86/a3645fa7a42ad4c6c5d9b963e60d76de.png"
+        },
+        {
+          "label": "崔允在头像（旧版卡）",
+          "from": "https://file.garden/ad-trfVIV3ilAD86/1efeeee52a48ee6a80e1b17ddaac5839.png",
+          "to": "https://file.garden/ad-trfVIV3ilAD86/a55933d0ad7caa285c67529d5e680441.png"
+        },
+        {
+          "label": "姜夏云头像（旧版卡）",
+          "from": "https://files.catbox.moe/t8gox4.png",
+          "to": "https://file.garden/ad-trfVIV3ilAD86/96a09e819decf659b967c01b3e65d9ae.png"
+        },
+        {
+          "label": "沈慕予头像（旧版卡）",
+          "from": "https://files.catbox.moe/xa9674.png",
+          "to": "https://file.garden/ad-trfVIV3ilAD86/9bacf34b8ed458a8c2e4b88bb6fc8152.png"
+        }
+      ]
+    },
+    {
+      "id": "e47ed0cf6cc6c30c",
+      "creator": "Mewo喵呜",
+      "card": "梁曜文",
+      "message": "喵呜已经帮你修正了喵呜卡的所有图床，是否需要一键同步？",
+      "updated_at": "2026-08-23T16:19:28.1790429Z",
+      "mappings": [
+        {
+          "from": "https://files.catbox.moe/zftp1s.jpeg",
+          "to": "https://file.garden/ad-trfVIV3ilAD86/8e9b55796af57a9ca31e8e990eb508e8.jpg"
+        },
+        {
+          "from": "zftp1s.jpeg",
+          "to": "https://file.garden/ad-trfVIV3ilAD86/8e9b55796af57a9ca31e8e990eb508e8.jpg"
+        },
+        {
+          "from": "https://files.catbox.moe/wdvqys.png",
+          "to": "https://file.garden/ad-trfVIV3ilAD86/a276ea0b8cf3f997665b2fd21c065817.jpg"
+        },
+        {
+          "from": "https://files.catbox.moe/kia72f.jpg",
+          "to": "https://file.garden/ad-trfVIV3ilAD86/db2c0150765f3259eb75c0b171bf79eb.jpg"
+        },
+        {
+          "from": "https://files.catbox.moe/ti826m.jpg",
+          "to": "https://file.garden/ad-trfVIV3ilAD86/9820b3a3bd2658ee6f0f33b0d459af65.jpg"
+        },
+        {
+          "from": "https://files.catbox.moe/k58an6.jpg",
+          "to": "https://file.garden/ad-trfVIV3ilAD86/95c5cda6d300f624175677eefe0b0ecc.jpg"
+        },
+        {
+          "from": "https://files.catbox.moe/e9efwe.jpg",
+          "to": "https://file.garden/ad-trfVIV3ilAD86/eb1585f320f78a90a831aabbecc2caa9.jpg"
+        },
+        {
+          "from": "https://files.catbox.moe/5ibnut.jpg",
+          "to": "https://file.garden/ad-trfVIV3ilAD86/98b2d172262bae720350d9bc3ba470bb.jpg"
         }
       ]
     }
