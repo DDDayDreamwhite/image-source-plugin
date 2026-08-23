@@ -4,10 +4,10 @@
   "requires": [],
   "optional": [],
   "dependencies": [],
-  "js": "index-0.24.0.js",
-  "css": "style-0.24.0.css",
+  "js": "index-0.25.0.js",
+  "css": "style-0.25.0.css",
   "author": "DDDayDreamwhite",
-  "version": "0.24.0",
+  "version": "0.25.0",
   "homePage": "https://github.com/DDDayDreamwhite/image-source-plugin",
   "auto_update": true
 }
